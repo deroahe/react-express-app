@@ -9,7 +9,7 @@ export const defaultState = {
         friends:[]
     }],
     groups:[{
-        name:"To Do",
+        name:"To do",
         id:"G1",
         owner:"U1"
     },{
